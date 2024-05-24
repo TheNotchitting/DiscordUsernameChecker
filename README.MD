@@ -51,7 +51,7 @@ python nigg4s_checker.py
 
 ## Additional Information
 1. Author: @thenotchitting
-2. Telegram: t.me/nigg4sphobia
+2. Telegram: t.me/niggasphobia
 
 
 ## Donations
