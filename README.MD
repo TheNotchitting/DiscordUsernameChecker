@@ -16,7 +16,7 @@ Nigg4s Checker is a Python script for checking the availability of Discord usern
 ## Showcase
 
 
-[image] https://media.discordapp.net/attachments/1242610410046230638/1243460374708092949/image.png?ex=66518e37&is=66503cb7&hm=b9d1877e771fe7785095f01ee077e6e994cac913da41e063c4144d5395af8c83&=&format=webp&quality=lossless
+[image](https://media.discordapp.net/attachments/1242610410046230638/1243460374708092949/image.png?ex=66518e37&is=66503cb7&hm=b9d1877e771fe7785095f01ee077e6e994cac913da41e063c4144d5395af8c83&=&format=webp&quality=lossless)
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ python nigg4s_checker.py
 
 ## Donations
 
-LTC = LVb59sF9FXnAjpqioyMgXk8f16V1ADXBds
-ETH (ERC20) = 0x5c834e7fdd70f3def88d26b4674146505ac7ac7b
-BTC = 1MLycYGLf6ED1QMQuyjfx8xy9hHhjhQHiQ
-SOL = EJBeFHRNpTTpBA8x4sv25axkaE76RjUuskyDysi9gbwD
+1. LTC = LVb59sF9FXnAjpqioyMgXk8f16V1ADXBds
+2. ETH (ERC20) = 0x5c834e7fdd70f3def88d26b4674146505ac7ac7b
+3. BTC = 1MLycYGLf6ED1QMQuyjfx8xy9hHhjhQHiQ
+4. SOL = EJBeFHRNpTTpBA8x4sv25axkaE76RjUuskyDysi9gbwD
