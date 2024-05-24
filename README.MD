@@ -16,7 +16,7 @@ Nigg4s Checker is a Python script for checking the availability of Discord usern
 ## Showcase
 
 
-https://cdn.discordapp.com/attachments/1242610410046230638/1243456450773254204/image.png?ex=66518a90&is=66503910&hm=c6a9e04f9c32ea474b41fd35567c9d98fdb917ad2bff5721e3ccdf55e67187f5&
+[image] https://media.discordapp.net/attachments/1242610410046230638/1243460374708092949/image.png?ex=66518e37&is=66503cb7&hm=b9d1877e771fe7785095f01ee077e6e994cac913da41e063c4144d5395af8c83&=&format=webp&quality=lossless
 
 ## Getting Started
 
