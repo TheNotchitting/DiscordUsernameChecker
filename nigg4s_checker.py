@@ -335,7 +335,7 @@ g = Colors.GREY
 r = Colors.RED
 x = Colors.ENDC
 ASCII = f"""
-{r}                                  BY T.ME/NIGGASPHOBIA
+{r}                                  BY NOTCHITTING 
 
 
                               _.-="_-         _
@@ -353,7 +353,7 @@ V___________:|          |: |========================|    :|          |:   _-"
 
                     {r}@{x}  Nigg4s Checker              {r}@{x}
                     {r}@{x}  github.com/thenotchitting   {r}@{x}
-                    {r}@{x}  t.me/Niggasphobia           {r}@{x}
+                    {r}@{x}  discord: tfbe               {r}@{x}
                     {r}@{x}  Version: {VERSION}              {r}@{x}
         """
 clear()
